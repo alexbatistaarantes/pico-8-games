@@ -1,4 +1,4 @@
-# pico-8-games
+# [pico-8-games](https://alexbatistaarantes.github.io/pico-8-games/)
 
 Games made with PICO-8
 
